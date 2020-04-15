@@ -6,3 +6,4 @@ File 3: Students will be able to implement tuples.
 File 4: Students will be able to implement lists.
 File 5: Students will be able to implement dictionaries and sets.
 File 6: Students will be able to implement functions.
+File 7: Students will be able to implement classes. 
