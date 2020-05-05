@@ -8,4 +8,4 @@ File 5: Students will be able to implement dictionaries and sets.
 File 6: Students will be able to implement functions.
 File 7: Students will be able to implement classes. 
 File 8: Students will be able to implement inheretance.
-File 9: Students will be able to implement dataFrames and sequences.
+File 9: Students will be able to implement dataFrames and series.
